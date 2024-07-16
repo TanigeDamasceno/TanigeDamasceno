@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanigeDamasceno
+- 👋 Hello, I’m @TanigeDamasceno
 - 👀 I’m interested in starting my career in software development and gaining practical experience.
 - 🌱 I’m currently learning the fundamentals of programming with Python,JAVA, CSS and JavaScript, as well as web development basics.
 - 💞️ I’m looking to collaborate on entry-level projects where I can learn and grow as a developer.
