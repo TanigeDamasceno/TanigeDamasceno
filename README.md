@@ -1,11 +1,11 @@
-- 👋 Hello, I’m @TanigeDamasceno
-- 👀 I’m interested in starting my career in software development and gaining practical experience.
-- 🌱 I’m currently learning the fundamentals of programming with Python, JAVA, CSS, HTML, C# and JavaScript, as well as web development basics.
-- 💞️ I’m looking to collaborate on entry-level projects where I can learn and grow as a developer.
-- 📫 How to reach me - You can reach me via email at tanigedamasceno@outlook.com or connect with me on LinkedIn: www.linkedin.com/in/tanigedamasceno
-- ⚡ Fun fact: I love reading and learning new things, venturing into new discoveries and ready for the next challenge.
 
-<!---
-TanigeDamasceno/TanigeDamasceno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Memória atualizada
+Aqui está uma versão otimizada do README.md no seu GitHub, mais voltada para a área de Engenharia de Dados:
+
+👋 Hello, I’m @TanigeDamasceno
+👀 I’m a Data Engineer in training, passionate about turning raw data into actionable insights. With a background in finance and software development, I'm transitioning into the tech field to focus on data engineering and analytics.
+🌱 I’m currently deepening my knowledge in SQL, Python, PySpark, and AWS, while learning about ETL pipelines, data warehousing, and big data tools.
+💻 I enjoy working on projects that involve data extraction, transformation, and loading (ETL), as well as analyzing and visualizing data to uncover insights.
+💡 I’m looking to collaborate on data engineering projects or open-source contributions where I can apply and grow my skills, especially in cloud-based environments like AWS.
+📫 How to reach me: Feel free to connect via email at tanigedamasceno@outlook.com or on LinkedIn www.linkedin.com/in/tanigedamasceno
+
