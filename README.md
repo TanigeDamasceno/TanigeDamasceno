@@ -1,7 +1,3 @@
-
-Memória atualizada
-Aqui está uma versão otimizada do README.md no seu GitHub, mais voltada para a área de Engenharia de Dados:
-
 👋 Hello, I’m @TanigeDamasceno
 👀 I’m a Data Engineer in training, passionate about turning raw data into actionable insights. With a background in finance and software development, I'm transitioning into the tech field to focus on data engineering and analytics.
 🌱 I’m currently deepening my knowledge in SQL, Python, PySpark, and AWS, while learning about ETL pipelines, data warehousing, and big data tools.
