@@ -6,13 +6,11 @@ Bem-vinda(o) ao meu perfil! Aqui você encontrará projetos focados em **Data En
 ### � Experiência Profissional
 
 **Junior Data Engineer** @ Itaú Unibanco
-- Desenvolvimento de pipelines de dados e ETL
+- Desenvolvimento de pipelines de dados e ETL com PySpark
 - Otimização de consultas SQL em ambientes de big data
 - Trabalho com arquiteturas escaláveis e ferramentas modernas de data engineering
 
----
 
-### �📈 Estatísticas GitHub
 
 <a href="https://github.com/tanigedamasceno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanigedamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
